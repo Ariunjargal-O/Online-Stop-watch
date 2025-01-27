@@ -1,7 +1,7 @@
 const timer = document.getElementById("timer");
 const stopButton = document.getElementById("stop");
 const startButton = document.getElementById("start");
-const resetButton = document.getElementById("reset");
+const resetButton = document.getElementById("reset");``
 
 let timerInterval;
 let startTime = 0;
